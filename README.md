@@ -10,7 +10,7 @@
 
 ![106592809-412a1c80-6550-11eb-97d6-f3d6a3c74372](https://user-images.githubusercontent.com/49908052/143507708-bdd889cc-5a7f-40df-9eca-8a0cb8252ddf.png)
 
-### - schematic view of our assembled surface region object, consisting of an open cone and two spherical caps
+### - schematic view of our assembled surface region object, consisting of a truncated cone enclosed with two spherical caps
 
 ![106745622-ab5ec200-6621-11eb-8ed4-44a9f14a37f2](https://user-images.githubusercontent.com/49908052/143508151-4ab517e5-613a-49b7-9e5c-f60fa14503a7.png)
 
