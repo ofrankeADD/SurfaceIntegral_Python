@@ -17,11 +17,11 @@
 ### - visualization of the meshgrid of the surface objects on which the actual vector field data points are inerpolated at
 
 <p float="left">
-<img src="https://user-images.githubusercontent.com/49908052/143508318-79e6d2f6-8205-4535-a96a-6d6bf7e85a22.png" width="480"/>
-<img src="https://user-images.githubusercontent.com/49908052/143508320-6b116e94-6c7b-4a56-9e08-8badca03ccb2.png" width="480"/>
+<img src="https://user-images.githubusercontent.com/49908052/143508318-79e6d2f6-8205-4535-a96a-6d6bf7e85a22.png" width="450"/>
+<img src="https://user-images.githubusercontent.com/49908052/143508320-6b116e94-6c7b-4a56-9e08-8badca03ccb2.png" width="450"/>
 </p>
 <p float="left">
-<img src="https://user-images.githubusercontent.com/49908052/143508674-621019db-b196-4f1f-9f28-db16c34bd378.png" width="480"/>
-<img src="https://user-images.githubusercontent.com/49908052/143508676-6026053b-d3af-41f0-ab01-2acfc0bccc62.png" width="480"/>
+<img src="https://user-images.githubusercontent.com/49908052/143508674-621019db-b196-4f1f-9f28-db16c34bd378.png" width="450"/>
+<img src="https://user-images.githubusercontent.com/49908052/143508676-6026053b-d3af-41f0-ab01-2acfc0bccc62.png" width="450"/>
 </p>
 
