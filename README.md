@@ -33,6 +33,7 @@ Both classes are inherited from the parent "Surface" class and are combined toge
 - Here is a interpolated result of a known vector field function G versus its analytical result (G=cos(theta) * sin(4 * phi)), which is also projected onto 2D:
 
 <img src="https://user-images.githubusercontent.com/49908052/143507708-bdd889cc-5a7f-40df-9eca-8a0cb8252ddf.png" width="700">
+You can see that G_interp is closely similar to G_analyt, indicating that the interpolation works fine.
 
 ### Procedure for interpolating a "Cone" object:
 - Instead of cropping a spherical shell, crop a thin lateral shell of a conical frustum.
