@@ -39,12 +39,14 @@ Both classes are inherited from the parent "Surface" class and are combined toge
 - Initiate a conical surface grid using cylindrical coordinates instead of spherical.
 - Take the same steps as before.
 
-### Visualization of the meshgrid of the surface objects on which the actual vector field data points are inerpolated at:
+### Visualization of the meshgrid of the surface grid objects on which the actual data points are inerpolated at:
 - points in red are belonging to a "Cone" object: the lateral area of a conical frustum
 - points in blue are belonging to a first "Sphere" object: the top spherical cap
 - points in green are belonging to a second "Sphere" object: the bottom spherical cap
 - the two subfigures in the first column are showing the constructed surface grids (grid_xyz) for each "Surface" object
 - the two subfigures in the second column are showing the datapoints within thin shells (shell_xyz) for each "Surface" object
+- you can see that grid_xyz and shell_xyz coincide very well
+- each row of subfigures is showing a different set of parameters consisting of the heigth of the conical frustum and the height of the spherical shell
 
 <p float="left">
 <img src="https://user-images.githubusercontent.com/49908052/143508318-79e6d2f6-8205-4535-a96a-6d6bf7e85a22.png" width="400"/>
